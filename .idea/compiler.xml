@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mercury-tours-automation" />
         <module name="sysco_bundabergrum_ui" />
+        <module name="ztaf-ui-qv2-pageobjects" />
+        <module name="ztaf-ui-qv2-tests" />
       </profile>
     </annotationProcessing>
   </component>

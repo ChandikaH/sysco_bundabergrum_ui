@@ -1,6 +1,0 @@
-
-äsquid:S1598"ÌThis file "Login.java" should be located in "com/sysco/qe/bundabergrum/ui/functions" directory, not in "/home/chandikab/git/ui/sysco_bundabergrum_ui/src/main/java/com/sysco/qe/bundabergrum/ui /functions".(µô»
-squid:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ÖŠÆùÿÿÿÿ
-†"squid:ClassVariableVisibilityCheck"XMake ogmLoginPage a static final constant or non-public and provide accessors if needed.(ãï¡à
-Qsquid:S1118":Add a private constructor to hide the implicit public one.(Ä½„‚
-Isquid:S1444"2Make this "public static ogmLoginPage" field final(ãï¡à
