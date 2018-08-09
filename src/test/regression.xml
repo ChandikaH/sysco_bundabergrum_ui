@@ -1,20 +1,9 @@
-<?xml version="1.0-SNAPSHOT" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0-SNAPSHOT.dtd" >
-<suite name="regression" verbose="1" configfailurepolicy="continue">
-    <test name="regression">
-        <!--<packages>
-            <package name="com.sysco.qe.bundabergrum.ui.tests"/>
-        </packages>-->
-        <groups>
-            <define name="all">
-                <include name="REGRESSION"/>
-            </define>
-            <run>
-                <include name="all"/>
-            </run>
-        </groups>
-        <classes>
-            <class name="com.sysco.qe.bundabergrum.tests.HomePageTest"/>
-        </classes>
-    </test>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="checkout" verbose="1" configfailurepolicy="continue">
+<test name="checkout">
+    <classes>
+        <class name="com.sysco.qe.bundabergrum.tests.HomePageTest"/>
+    </classes>
+</test>
 </suite>
