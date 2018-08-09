@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f59576-e889-47c1-afb8-9272052c01b8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/AgeGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Build_Projects.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Build_Projects.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Create_Idea_Projects.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Create_Idea_Projects.bat" afterDir="false" />
@@ -66,31 +61,21 @@
       <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestCase.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestCase.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestSuite.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Users.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/030d6b136cb493dde42c4214f5b582829bce5455" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/071db293d54b0397383ffb75ce2d1061ea133e22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/320e5026bea550cfdb863ace483d82d8e60c3b9a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e1a8be1b9b5031c199df4d9469b98254b745850" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e7e04431a6bf46cdacdbe546ce26150a4c28fd4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c9ab9263bc9b45d10f4f2a5aadbbb59260f5bae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8dd86bfda792a547e3c82e2063ce0d65d39e8cae" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /data/LoginData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/data/LoginData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /functions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/DateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /utils/DriverSetUpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/DriverSetUpUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/ui /utils/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/ExcelUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/chrome_driver/amd64/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chrome_driver/amd64/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/chrome_driver/x86_64/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chrome_driver/x86_64/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/ui /tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/ui /utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/regression.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/target/" />
@@ -106,121 +91,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Login.java">
+      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#787#788#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/HomePageTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="69" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CartPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#743#744#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageBase.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="e#610#611#0" expanded="true" />
-                <element signature="e#675#676#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyAccountPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="69" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PDPPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cart.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Messages.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+            <state relative-caret-position="300">
+              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -269,11 +144,9 @@
         <option value="$PROJECT_DIR$/../cake_pos_v2/src/test/java/com/syscolabs/test/login/UserLoginTest.java" />
         <option value="$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/utils/PageBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/MyAccountPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/DateUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/AgeGatePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java" />
@@ -281,21 +154,27 @@
         <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/utils/TestBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/AgeGate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Login.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/HomePageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/HomePageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/regression.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" />
       </list>
     </option>
   </component>
@@ -313,10 +192,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="827" />
+    <option name="x" value="-505" />
     <option name="y" value="24" />
-    <option name="width" value="773" />
-    <option name="height" value="876" />
+    <option name="width" value="1863" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -324,40 +203,49 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="mercury-tours-automation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="mercury-tours-automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="mercury-tours-automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="mercury-tours-automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="mercury-tours-automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="syscolabs" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mercury-tours-automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qa" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
@@ -372,63 +260,41 @@
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-              <item name="panels" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ztaf-ui-qv2" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../api/lapitaf-wallet-tests/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -436,8 +302,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.sysco.qe.bundabergrum.pages" />
       <recent name="com.sysco.qe.bundabergrum.functions" />
+      <recent name="com.sysco.qe.bundabergrum.pages" />
       <recent name="com.sysco.qe.bundabergrum.panels" />
       <recent name="com.sysco.qe.bundabergrum.common" />
       <recent name="com.sysco.qe.bundabergrum.messages" />
@@ -484,7 +350,7 @@
       <module name="sysco_bundabergrum_ui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.Home.*" />
+          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,10 +358,39 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
-      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.Home.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.HomePageTest" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="HomePageTest.testAddItemToCart" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sysco_bundabergrum_ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
+      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.HomePageTest" />
+      <option name="METHOD_NAME" value="testAddItemToCart" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -513,7 +408,7 @@
       <module name="sysco_bundabergrum_ui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.Home.*" />
+          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -521,7 +416,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
-      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.Home.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.HomePageTest" />
       <option name="METHOD_NAME" value="testNavigateToMyAccountPage" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -542,7 +437,7 @@
       <module name="sysco_bundabergrum_ui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.Home.*" />
+          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -550,37 +445,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
-      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.Home.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.HomePageTest" />
       <option name="METHOD_NAME" value="testRemoveCartItems" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="HomePageTest.testVerifyAgeGateConfirmation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="sysco_bundabergrum_ui" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.Home.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
-      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.Home.HomePageTest" />
-      <option name="METHOD_NAME" value="testVerifyAgeGateConfirmation" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -600,7 +466,7 @@
       <module name="sysco_bundabergrum_ui" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.Home.*" />
+          <option name="PATTERN" value="com.sysco.qe.bundabergrum.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -608,7 +474,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
-      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.Home.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.HomePageTest" />
       <option name="METHOD_NAME" value="testVerifySuccessfulLogin" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -648,19 +514,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.HomePageTest.testVerifyAgeGateConfirmation" />
       <item itemvalue="TestNG.HomePageTest" />
       <item itemvalue="TestNG.HomePageTest.testNavigateToMyAccountPage" />
       <item itemvalue="TestNG.HomePageTest.testVerifySuccessfulLogin" />
       <item itemvalue="TestNG.HomePageTest.testRemoveCartItems" />
+      <item itemvalue="TestNG.HomePageTest.testAddItemToCart" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.HomePageTest.testAddItemToCart" />
         <item itemvalue="TestNG.HomePageTest.testRemoveCartItems" />
         <item itemvalue="TestNG.HomePageTest.testVerifySuccessfulLogin" />
         <item itemvalue="TestNG.HomePageTest.testNavigateToMyAccountPage" />
-        <item itemvalue="TestNG.HomePageTest.testVerifyAgeGateConfirmation" />
       </list>
     </recent_temporary>
   </component>
@@ -678,34 +544,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTest_testRemoveCartItems - 2018.08.08 at 01h 44m 44s.xml">
-      <configuration name="HomePageTest.testRemoveCartItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 01h 45m 38s.xml">
+    <history-entry file="HomePageTest - 2018.08.09 at 23h 05m 31s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 01h 53m 41s.xml">
+    <history-entry file="HomePageTest - 2018.08.09 at 23h 06m 55s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 01h 53m 53s.xml">
+    <history-entry file="HomePageTest - 2018.08.09 at 23h 11m 33s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest_testRemoveCartItems - 2018.08.08 at 01h 54m 10s.xml">
-      <configuration name="HomePageTest.testRemoveCartItems" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 01h 55m 00s.xml">
+    <history-entry file="HomePageTest - 2018.08.09 at 23h 12m 57s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 01h 56m 55s.xml">
+    <history-entry file="HomePageTest - 2018.08.09 at 23h 54m 58s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 01h 58m 20s.xml">
+    <history-entry file="HomePageTest - 2018.08.09 at 23h 58m 00s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 02h 03m 03s.xml">
+    <history-entry file="HomePageTest - 2018.08.10 at 00h 00m 30s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HomePageTest - 2018.08.08 at 02h 06m 10s.xml">
+    <history-entry file="HomePageTest - 2018.08.10 at 00h 32m 06s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.08.10 at 00h 34m 24s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.08.10 at 00h 39m 39s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -715,32 +581,32 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3275401" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32486632" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.121414274" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35026738" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37566844" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16611074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2101401" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39973262" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39870688" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -750,43 +616,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/HomePageTest.java</url>
-          <line>88</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java</url>
-          <line>20</line>
+          <line>46</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java</url>
-          <line>28</line>
+          <line>69</line>
           <properties />
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java</url>
-          <line>29</line>
+          <line>73</line>
           <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -839,41 +687,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/utils/UpdateCouchSettingDoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="97" column="23" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/types/Pages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/functions/common/MainMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/test/java/com/syscolabs/test/login/UserLoginGeneralTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="51" column="40" selection-start-line="51" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/test/java/com/syscolabs/test/login/CardSwipeBasedLoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/utils/DriverUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -890,20 +703,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/java/com/mitra/qa/test/MercuryToursTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/test/java/com/syscolabs/utils/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1003,34 +802,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/AgeGateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/AgeGateTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/utils/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1041,24 +817,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/syscolab/qe/qe-core/0.2.3/qe-core-0.2.3.jar!/com/syscolab/qe/core/ui/SyscoLabUI.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="289" column="19" selection-start-line="289" selection-start-column="19" selection-end-line="289" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/utils/PageBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="87" selection-start-line="87" selection-end-line="93" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -1086,45 +848,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Account.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/syscolab/qe/qe-core/0.2.3/qe-core-0.2.3.jar!/com/syscolab/qe/core/ui/SyscoLabUI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="400" column="16" selection-start-line="400" selection-start-column="16" selection-end-line="400" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="10" column="89" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-          <folding>
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#1019#1020#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        <state relative-caret-position="270">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
           <folding>
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/AgeGate.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="41" selection-start-line="41" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="e#1310#1311#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1134,28 +956,34 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/AgeGatePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="15" column="22" selection-start-line="15" selection-end-line="16" />
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-end-line="16" />
           <folding>
-            <element signature="e#1538#1539#0" expanded="true" />
-            <element signature="e#1609#1610#0" expanded="true" />
-            <element signature="e#1770#1771#0" expanded="true" />
-            <element signature="e#1845#1846#0" expanded="true" />
-            <element signature="e#1888#1889#0" expanded="true" />
-            <element signature="e#1935#1936#0" expanded="true" />
-            <element signature="e#2090#2091#0" expanded="true" />
-            <element signature="e#2151#2152#0" expanded="true" />
+            <element signature="e#1426#1427#0" expanded="true" />
+            <element signature="e#1493#1494#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Login.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="525">
+          <caret line="47" column="47" lean-forward="true" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#1459#1460#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+          <folding>
+            <element signature="e#1301#1302#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#1401#1402#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1163,87 +991,109 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="59" lean-forward="true" selection-start-line="13" selection-start-column="59" selection-end-line="13" selection-end-column="59" />
+          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="183">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#1774#1775#0" expanded="true" />
+            <element signature="e#1824#1825#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="198">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
           <folding>
-            <element signature="e#610#611#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/MyAccountPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="69" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/PDPPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="138">
+          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#743#744#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/HomePageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#2584#2585#0" expanded="true" />
+            <element signature="e#2638#2639#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="91" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/resources/testplans/REGRESSION.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/java/com/mitra/qa/test/MercuryToursTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#865#866#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
         </state>
       </provider>
     </entry>

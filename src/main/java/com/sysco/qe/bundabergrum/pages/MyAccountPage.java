@@ -6,7 +6,12 @@ import com.syscolab.qe.core.ui.web.SyscoLabWUI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Capabilities;
 
-
+/**
+ * MyAccountPage.java - class to verify MyAccount methods
+ *
+ * @author chandikab
+ * @since 08/05/2018.
+ */
 public class MyAccountPage extends PageBase {
     private By lblUserName = By.xpath("//div[@class='welcome-msg']/h2");
     private By lblDashboard = By.xpath("//strong[contains(text(),'Dashboard')]");
@@ -20,8 +25,8 @@ public class MyAccountPage extends PageBase {
     }
 
     public String getUserName() {
-        String str = syscoLabUI.getText(lblUserName);
-        String[] arrOfStr = str.split(", ", 2);
+        String txtUserName = syscoLabUI.getText(lblUserName);
+        String[] arrOfStr = txtUserName.split(", ", 2);
         String userName = arrOfStr[1].replace("!", "");
         return userName;
     }

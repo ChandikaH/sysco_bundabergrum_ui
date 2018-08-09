@@ -19,6 +19,8 @@ public class HomePage extends PageBase {
     private By lnkMyAccount = By.xpath("//a[@title='My Account']");
     private By lnkProducts = By.xpath("//li[@class='link-product']/a");
     private By lnkCategories = By.xpath("//li[@class='link-product']/ul/li/ul/li/a");
+    private By lnkCategoryExclusive = By.xpath("//div[@class='nav-column']//a[contains(@class,'level1')][contains(text(),'Exclusive Range')]");
+
 
 
     public void waitTillHomePageLoaded() {
@@ -37,4 +39,13 @@ public class HomePage extends PageBase {
         syscoLabUI.waitTillElementLoaded(lnkMyAccount);
         syscoLabUI.click(lnkMyAccount);
     }
+
+    public void mouseHoverProductsLink() {
+        syscoLabUI.mouseHover(lnkProducts);
+    }
+
+    public void selectCategory() {
+        syscoLabUI.click(lnkCategoryExclusive);
+    }
+
 }

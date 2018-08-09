@@ -43,4 +43,13 @@ public class Home {
         homePage.waitFor(3);
         homePage.navigateToLoginPage();
     }
+
+    public static void mouseHoverProductsLink() {
+        homePage.mouseHoverProductsLink();
+    }
+
+    public static void selectCategoryFromList() {
+        homePage.selectCategory();
+    }
+
 }

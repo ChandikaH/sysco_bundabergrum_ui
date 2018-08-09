@@ -10,5 +10,4 @@ public class Constants {
     public static final String APP_OS = System.getProperty("app.os", "WIN10");
     public static final String APP_BROWSER = System.getProperty("app.browser", "chrome");
 
-
 }
