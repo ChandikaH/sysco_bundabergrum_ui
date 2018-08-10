@@ -128,7 +128,7 @@ public class HomePageTest extends TestBase {
     @Test(description = "TC_012", alwaysRun = true, dependsOnMethods = "testVerifyUserDetailsInCheckout")
     public void testVerifyShippingMandatoryFields() {
         Checkout.clearMandatoryFields();
-        Checkout.clickButtonContinue();
+        Checkout.clickButtonContinueToDelivery();
         softAssert.assertEquals(Checkout.getFirstNameErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Required error message is not displayed");
         softAssert.assertEquals(Checkout.getLastNameErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Required error message is not displayed");
         softAssert.assertEquals(Checkout.getAddressErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Required error message is not displayed");
@@ -136,4 +136,67 @@ public class HomePageTest extends TestBase {
         softAssert.assertEquals(Checkout.getPostcodeErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Required error message is not displayed");
         softAssert.assertAll();
     }
+
+    @Test(description = "TC_013", alwaysRun = true, dependsOnMethods = "testVerifyShippingMandatoryFields")
+    public void testEnterUserInformation() {
+        Checkout.enterUserInformation();
+        softAssert.assertTrue(Checkout.isFirstNameDisplayed(), "First name text is not displayed");
+        softAssert.assertTrue(Checkout.isLastNameDisplayed(), "Last name text is not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_014", alwaysRun = true, dependsOnMethods = "testEnterUserInformation")
+    public void testEnterPostalCode() {
+        Checkout.enterPostalCode();
+        softAssert.assertTrue(Checkout.isPostalCodeDisplayed(), "Postal code is not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_015", alwaysRun = true, dependsOnMethods = "testEnterPostalCode")
+    public void testNavigateToDeliveryOptionsPage() {
+        Checkout.clickButtonContinueToDelivery();
+        softAssert.assertTrue(Checkout.isDeliveryWarningDisplayed(), "Delivery warning not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_016", alwaysRun = true, dependsOnMethods = "testNavigateToDeliveryOptionsPage")
+    public void testValidateDeliveryOptions() {
+        Checkout.checkAuthorizeShippingCheckbox();
+        softAssert.assertEquals(Checkout.getDeliveryWarningErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Delivery warning error not displayed");
+        softAssert.assertTrue(Checkout.isInstructionsTextAreaDisplayed(), "Special Instructions text area not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_017", alwaysRun = true, dependsOnMethods = "testValidateDeliveryOptions")
+    public void testNavigateToPaymentOptions() {
+        Checkout.checkAuthorizeShippingCheckbox();
+        Checkout.clickContinueToPaymentSection();
+        softAssert.assertTrue(Checkout.isLabelSelectPaymentMethodDisplayed(), "Payment method label not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_018", alwaysRun = true, dependsOnMethods = "testNavigateToPaymentOptions")
+    public void testSelectPaymentTypeCreditCard() {
+        Checkout.selectCreditCardOption();
+        softAssert.assertTrue(Checkout.isCreditCardTextboxDisplayed(), "Credit card number textbox not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_019", alwaysRun = true, dependsOnMethods = "testSelectPaymentTypeCreditCard")
+    public void testValidatePaymentRequiredFields() {
+        Checkout.clickPurchaseOrderButton();
+        softAssert.assertEquals(Checkout.getCreditCardTextboxErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Credit card textbox error message not displayed");
+        softAssert.assertEquals(Checkout.getCreditCardCVVTextboxErrorMessage(), Messages.REQUIRED_ERROR_MESSAGE, "Credit card textbox error message not displayed");
+        softAssert.assertAll();
+    }
+
+    @Test(description = "TC_020", alwaysRun = true, dependsOnMethods = "testValidatePaymentRequiredFields")
+    public void testValidateIncorrectPaymentDetails() {
+        Checkout.enterCreditCardDetails(PageConstants.INVALID_CARD_NO, PageConstants.INVALID_CVV_NO);
+        Checkout.clickPurchaseOrderButton();
+        PageBase.waitFor(3);
+        softAssert.assertEquals(Checkout.getInvalidCreditCardErrorMessage(), Messages.INCORRECT_CC_NUMBER_MESSAGE, "Invalid credit card error message not displayed");
+        softAssert.assertAll();
+    }
+
 }

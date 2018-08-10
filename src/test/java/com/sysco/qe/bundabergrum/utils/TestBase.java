@@ -8,20 +8,18 @@ import org.testng.ITestContext;
 import org.testng.annotations.*;
 import org.testng.asserts.SoftAssert;
 
-@Listeners(SyscoLabListener.class)
-public class TestBase {
+public class TestBase extends SyscoLabListener {
     private SyscoLabListener testListeners;
     private SyscoLabQCenter syscoLabQCenter;
     protected SyscoLabReporting syscoLabReporting;
-    protected SoftAssert softAssert = new SoftAssert();
+    protected SoftAssert softAssert;
 
 
     @BeforeClass
     public void init() {
-
-        testListeners = new SyscoLabListener();
         syscoLabQCenter = new SyscoLabQCenter();
         syscoLabReporting = new SyscoLabReporting();
+        testListeners = new SyscoLabListener(syscoLabUI);
     }
 
     @BeforeMethod
@@ -45,9 +43,9 @@ public class TestBase {
             syscoLabQCenter.setFeature(iTestContext.getAttribute("feature").toString());
             syscoLabQCenter.setClassName(iTestContext.getClass().getName());
 
-            PageBase.quitDriver();
             if (Constants.UPDATE_DASHBOARD)
                 SyscoLabReporting.generateJsonFile(SyscoLabListener.getResults(), syscoLabQCenter);
+            PageBase.quitDriver();
 
         } catch (Exception e) {
             e.printStackTrace();

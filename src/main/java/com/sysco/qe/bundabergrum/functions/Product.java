@@ -16,6 +16,7 @@ public class Product {
     public static PDPPage productPage = new PDPPage();
 
     public static boolean isProductExclusiveDisplayed() {
+        LOGGER.info("Product Exclusive page Displayed");
         return productPage.isExclusiveRangeHeaderDisplayed();
     }
 

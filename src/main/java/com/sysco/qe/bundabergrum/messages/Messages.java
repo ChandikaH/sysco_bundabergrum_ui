@@ -12,5 +12,6 @@ public class Messages {
     public static final String INCORRECT_EMAIL_MESSAGE = "Please enter a valid email address. For example johndoe@domain.com.";
     public static final String INCORRECT_PW_MESSAGE = "Please enter 6 or more characters. Leading or trailing spaces will be ignored.";
     public static final String REQUIRED_ERROR_MESSAGE = "This is a required field.";
+    public static final String INCORRECT_CC_NUMBER_MESSAGE = "Please enter a valid credit card number.";
 
 }
