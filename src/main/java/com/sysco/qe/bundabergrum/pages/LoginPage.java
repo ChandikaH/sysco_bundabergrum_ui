@@ -13,6 +13,10 @@ import org.openqa.selenium.Capabilities;
  * @since 08/05/2018.
  */
 public class LoginPage extends PageBase {
+
+    /**
+     * Initialize Login page elements
+     */
     private By lblMyAccount = By.xpath("//h1[contains(text(),'my bundy account')]");
     private By txtEmail = By.id("email");
     private By txtPassword = By.id("pass");

@@ -2,77 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f59576-e889-47c1-afb8-9272052c01b8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Build_Projects.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Build_Projects.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Create_Idea_Projects.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/Create_Idea_Projects.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/jenkins/console_log.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/jenkins/console_log.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/jenkins/post_build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/jenkins/post_build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/jenkins/rerun_setup.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/bin/jenkins/rerun_setup.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/misc/coading/idea/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/misc/coading/idea/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/misc/coading/idea/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/misc/coading/idea/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ActionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ActionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ApplicationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ApplicationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ComponentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ComponentPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ExecutePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ExecutePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/HelpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/HelpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/MyProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/MyProfilePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/QV2WebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/QV2WebPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ReportsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/ReportsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/RolesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/RolesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/SignInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/SupportPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/SupportPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/SupportTicketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/SupportTicketPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/TestCasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/TestCasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/TestSuitePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/TestSuitePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/UsersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/pages/UsersPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/FooterPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/FooterPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/HeaderPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/HeaderPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/MainMenuPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/MainMenuPanel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/utils/AppConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/utils/AppConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ApplicationPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ApplicationPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ComponentPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ComponentPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ExecutePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ExecutePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/MyProfilePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/MyProfilePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ReportsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ReportsPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/RolesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/RolesPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/SignInPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/TestCasePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/TestCasePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/TestSuitePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/TestSuitePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/UsersPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/UsersPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/elements/elements.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/elements/elements.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/environment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/environment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/config/ui/routes.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/BAT_All.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/BAT_All.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_All.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_All.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Component.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Component.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Execute.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Execute.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Report.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Role.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Role.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_SignIn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_SignIn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestCase.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestCase.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/resources/testplans/Reg_Users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chrome_driver/amd64/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chrome_driver/amd64/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/regression.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/target/" />
     <ignored path="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/target/" />
     <ignored path="$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/target/" />
     <ignored path="$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/target/" />
+    <ignored path="$USER_HOME$/Downloads/web_ui_automation-dev/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+            <state relative-caret-position="225">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,70 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartPanel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
+      <file leaf-file-name="regression.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/regression.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1434#1435#0" expanded="true" />
-                <element signature="e#1481#1482#0" expanded="true" />
-                <element signature="e#2584#2585#0" expanded="true" />
-                <element signature="e#2638#2639#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Checkout.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="131" column="57" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="57" />
-              <folding>
-                <element signature="e#3756#3757#0" expanded="true" />
-                <element signature="e#3818#3819#0" expanded="true" />
-                <element signature="e#3881#3882#0" expanded="true" />
-                <element signature="e#3947#3948#0" expanded="true" />
-                <element signature="e#4014#4015#0" expanded="true" />
-                <element signature="e#4080#4081#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckoutPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="169" column="43" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="43" />
-              <folding>
-                <element signature="e#4699#4700#0" expanded="true" />
-                <element signature="e#4769#4770#0" expanded="true" />
-                <element signature="e#5608#5609#0" expanded="true" />
-                <element signature="e#5676#5677#0" expanded="true" />
-                <element signature="e#5834#5835#0" expanded="true" />
-                <element signature="e#5902#5903#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Messages.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="116" selection-start-line="6" selection-start-column="116" selection-end-line="6" selection-end-column="116" />
+            <state relative-caret-position="75">
+              <caret line="5" column="58" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -208,7 +93,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/MyAccountPage.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/DateUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/AgeGatePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java" />
@@ -216,7 +100,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/AgeGate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Login.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/HomePage/HomePage.java" />
@@ -228,7 +111,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/test/regression.xml" />
         <option value="$PROJECT_DIR$/../cake_pos_v2/src/test/java/com/syscolabs/utils/TestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/utils/TestBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" />
@@ -236,8 +118,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/CheckoutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/regression.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" />
       </list>
     </option>
   </component>
@@ -276,6 +161,41 @@
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cake_pos_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+              <item name="amd64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,13 +214,43 @@
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+              <item name="amd64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -308,28 +258,10 @@
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bundabergrum" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,7 +272,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../api/lapitaf-wallet-tests/pom.xml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/web_ui_automation-dev/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -372,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest">
+  <component name="RunManager" selected="TestNG./home/chandikab/git/ui/sysco_bundabergrum_ui/src/test/regression.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -391,6 +323,16 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ztaf-ui-qv2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="HomePageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sysco_bundabergrum_ui" />
@@ -562,8 +504,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomePageTest" />
         <item itemvalue="TestNG./home/chandikab/git/ui/sysco_bundabergrum_ui/src/test/regression.xml" />
+        <item itemvalue="TestNG.HomePageTest" />
         <item itemvalue="TestNG.HomePageTest.testAddItemToCart" />
         <item itemvalue="TestNG.HomePageTest.testRemoveCartItems" />
         <item itemvalue="TestNG.HomePageTest.testVerifySuccessfulLogin" />
@@ -584,12 +526,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTest - 2018.08.10 at 02h 34m 16s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.10 at 02h 38m 27s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomePageTest - 2018.08.10 at 11h 40m 11s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
@@ -614,6 +550,12 @@
     <history-entry file="HomePageTest - 2018.08.10 at 19h 26m 13s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTest - 2018.08.10 at 20h 57m 28s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_home_chandikab_git_ui_sysco_bundabergrum_ui_src_test_regression_xml - 2018.08.10 at 21h 39m 58s.xml">
+      <configuration name="/home/chandikab/git/ui/sysco_bundabergrum_ui/src/test/regression.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="-4" width="1545" height="904" extended-state="6" />
@@ -621,19 +563,20 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32435346" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32352942" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.121414274" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46524063" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46524063" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21280853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23882589" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -646,7 +589,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -707,123 +649,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="41" column="32" selection-start-line="41" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/utils/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/DriverSetUpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/DateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/common/LoggerUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/data/CardSwipeData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/functions/login/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/pages/fe/login/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="128" selection-start-line="128" selection-end-line="130" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/types/messages/LoginMessages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/main/java/com/syscolabs/types/messages/ClockIOMessages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/src/test/java/com/syscolabs/test/login/UserLoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/Home/AgeGateTest.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.9.10/testng-6.9.10.jar!/org/testng/asserts/SoftAssert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/utils/PageBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="87" selection-start-line="87" selection-end-line="93" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bundabergrum-log.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/syscolab/qe/qe-core/0.2.3/qe-core-0.2.3.jar!/com/syscolab/qe/core/ui/SyscoLabUI.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="400" column="16" selection-start-line="400" selection-start-column="16" selection-end-line="400" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/LoginTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -879,20 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/resources/testplans/REGRESSION.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/java/com/mitra/qa/test/MercuryToursTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="21" column="48" lean-forward="true" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -904,13 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="8" lean-forward="true" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/regression.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -939,18 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2544" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1048,21 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="31" selection-start-line="31" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#1113#1114#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1513#1514#0" expanded="true" />
-            <element signature="e#1580#1581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1070,24 +847,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="116" selection-start-line="6" selection-start-column="116" selection-end-line="6" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/messages/Messages.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1434#1435#0" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#2584#2585#0" expanded="true" />
-            <element signature="e#2638#2639#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1108,7 +878,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="1515">
           <caret line="131" column="57" selection-start-line="131" selection-start-column="25" selection-end-line="131" selection-end-column="57" />
           <folding>
             <element signature="e#3756#3757#0" expanded="true" />
@@ -1121,20 +891,227 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/Constants.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="116" selection-start-line="6" selection-start-column="116" selection-end-line="6" selection-end-column="116" />
+        <state relative-caret-position="441">
+          <caret line="71" column="32" lean-forward="true" selection-start-line="71" selection-start-column="32" selection-end-line="71" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1434#1435#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+            <element signature="e#2584#2585#0" expanded="true" />
+            <element signature="e#2638#2639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/java/com/mitra/qa/test/MercuryToursTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="13" selection-start-line="13" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding>
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1034#1035#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1244#1245#0" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1335#1336#0" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1485#1486#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1711#1712#0" expanded="true" />
+            <element signature="e#1768#1769#0" expanded="true" />
+            <element signature="e#1830#1831#0" expanded="true" />
+            <element signature="e#1881#1882#0" expanded="true" />
+            <element signature="e#1942#1943#0" expanded="true" />
+            <element signature="e#2002#2003#0" expanded="true" />
+            <element signature="e#2067#2068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/test/resources/testplans/REGRESSION.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/utils/PageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="82" column="7" lean-forward="true" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/mercury-tours-automation/mercury-tours-automation/src/main/java/com/mitra/qa/pageobjects/utils/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cake_pos_v2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2724" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-tests/src/main/java/com/zone24x7/qa/qv2/ui/test/ApplicationPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5400">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/utils/AppConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8603">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../privateProjects/oldProjects/ZTAF/UI/ztaf-ui-qv2/ztaf-ui-qv2-pageobjects/src/main/java/com/zone24x7/qa/qv2/ui/panels/FooterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-668">
+          <caret line="72" column="39" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1779" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/test/regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/data/UserData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="108" column="11" selection-start-line="108" selection-start-column="11" selection-end-line="108" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/test/java/com/sysco/web_ui_automation/tests/AccountVerificationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/pages/PageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/Types/CreditCardTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/Types/Pages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/Types/PaymentMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/pages/ProductsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/test/java/com/sysco/web_ui_automation/tests/ProductCartVerificationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/functions/Products.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+        <state relative-caret-position="225">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/regression.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="58" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="58" />
         </state>
       </provider>
     </entry>

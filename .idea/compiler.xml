@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mercury-tours-automation" />
         <module name="sysco_bundabergrum_ui" />
-        <module name="ztaf-ui-qv2-pageobjects" />
-        <module name="ztaf-ui-qv2-tests" />
+        <module name="sysco_web_ui_automation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mercury-tours-automation" target="1.5" />
+      <module name="ztaf-ui-qv2" target="1.5" />
+      <module name="ztaf-ui-qv2-pageobjects" target="1.7" />
+      <module name="ztaf-ui-qv2-tests" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

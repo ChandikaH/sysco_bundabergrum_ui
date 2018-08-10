@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="checkout" verbose="1" configfailurepolicy="continue">
-<test name="checkout">
-    <classes>
-        <class name="com.sysco.qe.bundabergrum.tests.HomePageTest"/>
-    </classes>
-</test>
+    <test name="checkout">
+        <packages>
+            <package name="com.sysco.qe.bundabergrum.tests"/>
+        </packages>
+    </test>
 </suite>
