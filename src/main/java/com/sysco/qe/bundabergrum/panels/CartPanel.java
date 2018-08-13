@@ -39,6 +39,7 @@ public class CartPanel extends PageBase {
 
     public void clickCart() {
         syscoLabUI.click(spnCartHeader);
+        PageBase.waitFor(2);
     }
 
     public void removeCartItems() {
