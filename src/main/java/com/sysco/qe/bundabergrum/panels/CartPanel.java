@@ -60,10 +60,12 @@ public class CartPanel extends PageBase {
     }
 
     public boolean verifyCartItemName() {
+        LOGGER.info("Cart item name is - " + syscoLabUI.getText(lnkCartItemName));
         return syscoLabUI.getText(lnkCartItemName).contains(productPage.getProductName());
     }
 
     public boolean verifyCartItemPrice() {
+        LOGGER.info("Cart item price is - " + syscoLabUI.getText(lnkCartItemNPrice));
         return syscoLabUI.getText(lnkCartItemNPrice).equals(productPage.getProductPrice());
     }
 

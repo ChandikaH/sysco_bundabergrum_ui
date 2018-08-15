@@ -3,6 +3,7 @@ package com.sysco.qe.bundabergrum.pages.HomePage;
 import com.sysco.qe.bundabergrum.utils.PageBase;
 import com.syscolab.qe.core.ui.SyscoLabUI;
 import com.syscolab.qe.core.ui.web.SyscoLabWUI;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Capabilities;
 
@@ -15,6 +16,8 @@ import org.openqa.selenium.Capabilities;
 
 
 public class HomePage extends PageBase {
+    private static final Logger LOGGER = Logger.getLogger(HomePage.class);
+
     private By imgHomePageLogo = By.xpath("//div[@class='branding']//a[1]//img[1]");
     private By lnkMyAccount = By.xpath("//a[@title='My Account']");
     private By lnkProducts = By.xpath("//li[@class='link-product']/a");
@@ -38,6 +41,7 @@ public class HomePage extends PageBase {
     public void navigateToLoginPage() {
         syscoLabUI.waitTillElementLoaded(lnkMyAccount);
         syscoLabUI.click(lnkMyAccount);
+        LOGGER.info("Clicked on My Account link");
     }
 
     public void mouseHoverProductsLink() {

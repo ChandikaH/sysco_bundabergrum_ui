@@ -2,6 +2,7 @@ package com.sysco.qe.bundabergrum.functions;
 
 import com.sysco.qe.bundabergrum.common.PageConstants;
 import com.sysco.qe.bundabergrum.pages.HomePage.AgeGatePage;
+import org.apache.log4j.Logger;
 
 import java.text.DateFormatSymbols;
 
@@ -13,6 +14,7 @@ import java.text.DateFormatSymbols;
  */
 public class AgeGate {
 
+    private static final Logger LOGGER = Logger.getLogger(AgeGate.class);
     public static AgeGatePage ageGatePage = new AgeGatePage();
 
     public static void waitForAgeGatePageLoaded() {
@@ -36,7 +38,9 @@ public class AgeGate {
         ageGatePage.selectDay(day);
         ageGatePage.selectMonth(monthName);
         ageGatePage.selectYear(year);
+        LOGGER.info("Age is selected");
         ageGatePage.clickAgeConfirmButton();
+        LOGGER.info("Clicked on Age Confirm Button");
     }
 
     public static String getAgeErrorMessage() {

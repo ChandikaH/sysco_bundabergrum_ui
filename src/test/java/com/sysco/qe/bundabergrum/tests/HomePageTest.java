@@ -78,13 +78,12 @@ public class HomePageTest extends TestBase {
         Login.enterLoginDetailsAndSubmit(PageConstants.VALID_EMAIL, PageConstants.VALID_PW);
         PageBase.waitFor(3);
         softAssert.assertTrue(Account.isMyAccountDisplayed(), "Dashboard label is not displayed");
-        softAssert.assertTrue(Account.isUsernameDisplayed(), "Username label is not displayed");
-        softAssert.assertEquals(Account.getUserNameText(), PageConstants.USER_NAME, "Username not equal");
         softAssert.assertAll();
     }
 
     @Test(description = "TC_007", alwaysRun = true, dependsOnMethods = "testVerifySuccessfulLogin")
     public void testVerifyMyAccountUser() {
+        Account.isMyAccountDisplayed();
         softAssert.assertTrue(Account.isUsernameDisplayed(), "Username label is not displayed");
         softAssert.assertEquals(Account.getUserNameText(), PageConstants.USER_NAME);
         softAssert.assertAll();

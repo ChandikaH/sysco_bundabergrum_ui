@@ -23,7 +23,9 @@ public class Product {
     public static void clickProductItemAndNavigateToCart() {
         productPage.clickProductItem();
         productPage.getProductName();
+        LOGGER.info("Product Name is - " + productPage.getProductName());
         productPage.getProductPrice();
+        LOGGER.info("Product Price is - " + productPage.getProductPrice());
         productPage.clickAddToCart();
         LOGGER.info("product added to cart");
         PageBase.waitFor(2);

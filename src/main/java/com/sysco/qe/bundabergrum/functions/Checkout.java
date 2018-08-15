@@ -3,6 +3,7 @@ package com.sysco.qe.bundabergrum.functions;
 import com.sysco.qe.bundabergrum.common.PageConstants;
 import com.sysco.qe.bundabergrum.pages.CheckoutPage;
 import com.sysco.qe.bundabergrum.utils.PageBase;
+import org.apache.log4j.Logger;
 
 /**
  * Checkout.java - class to verify Checkout functions
@@ -12,6 +13,7 @@ import com.sysco.qe.bundabergrum.utils.PageBase;
  */
 public class Checkout {
 
+    private static final Logger LOGGER = Logger.getLogger(Checkout.class);
     public static CheckoutPage checkout = new CheckoutPage();
 
     public static boolean verifyName(String name) {
@@ -46,6 +48,7 @@ public class Checkout {
         checkout.clearAddress1();
         checkout.clearContactNumber();
         checkout.clearPostcode();
+        LOGGER.info("Mandatory fields cleared");
         PageBase.waitFor(2);
     }
 
@@ -74,6 +77,7 @@ public class Checkout {
         checkout.enterLastNameText(getName(PageConstants.STRING_LAST_NAME));
         checkout.enterAddress1Text(PageConstants.STRING_ADDRESS1);
         checkout.enterContactNumber(PageConstants.STRING_CONTACT_NUMBER);
+        LOGGER.info("User information entered");
     }
 
     public static void enterPostalCode() {
@@ -118,6 +122,7 @@ public class Checkout {
 
     public static void selectCreditCardOption() {
         checkout.clickCreditCardRadio();
+        LOGGER.info("Credit Card option selected");
         PageBase.waitFor(1);
     }
 
@@ -132,6 +137,7 @@ public class Checkout {
     public static String getInvalidCreditCardErrorMessage() {
         return checkout.getInvalidCreditCardError();
     }
+
     public static String getCreditCardCVVTextboxErrorMessage() {
         return checkout.getCreditCardCVVErrorMessage();
     }
@@ -139,6 +145,7 @@ public class Checkout {
     public static void enterCreditCardDetails(String creditCardNumber, String cvvCode) {
         checkout.enterCreditCardNumber(creditCardNumber);
         checkout.enterCVVCodeText(cvvCode);
+        LOGGER.info("Credit Card Details entered");
         PageBase.waitFor(1);
     }
 }

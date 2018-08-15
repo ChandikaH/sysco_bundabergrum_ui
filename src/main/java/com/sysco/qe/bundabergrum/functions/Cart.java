@@ -2,6 +2,7 @@ package com.sysco.qe.bundabergrum.functions;
 
 import com.sysco.qe.bundabergrum.panels.CartPanel;
 import com.sysco.qe.bundabergrum.utils.PageBase;
+import org.apache.log4j.Logger;
 
 /**
  * Cart.java - class to verify Cart functions
@@ -11,6 +12,7 @@ import com.sysco.qe.bundabergrum.utils.PageBase;
  */
 public class Cart {
 
+    private static final Logger LOGGER = Logger.getLogger(Cart.class);
     public static CartPanel myCartPanel = new CartPanel();
 
     public static int verifyCartItemCount() {
@@ -23,6 +25,7 @@ public class Cart {
 
     public static void clickCartIcon() {
         myCartPanel.clickCart();
+        LOGGER.info("Cart icon clicked");
     }
 
     public static boolean isCartDropDownDisplayed() {
@@ -39,12 +42,14 @@ public class Cart {
 
     public static void proceedToCheckoutFromCart() {
         myCartPanel.clickButtonProceedToCheckout();
+        LOGGER.info("Clicked Button Proceed To Checkout");
         PageBase.waitFor(2);
     }
 
     public static void proceedToCart() {
         PageBase.waitFor(5);
         myCartPanel.clickButtonCartCheckout();
+        LOGGER.info("Clicked Button Cart Checkout");
     }
 
 

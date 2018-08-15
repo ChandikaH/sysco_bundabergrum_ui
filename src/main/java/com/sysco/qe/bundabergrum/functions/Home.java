@@ -3,6 +3,7 @@ package com.sysco.qe.bundabergrum.functions;
 import com.sysco.qe.bundabergrum.common.Constants;
 import com.sysco.qe.bundabergrum.pages.HomePage.HomePage;
 import com.sysco.qe.bundabergrum.utils.DriverSetUpUtil;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 /**
@@ -13,6 +14,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  */
 public class Home {
 
+    private static final Logger LOGGER = Logger.getLogger(Home.class);
     public static HomePage homePage = new HomePage();
 
 
@@ -25,6 +27,7 @@ public class Home {
         } else {
             homePage.loadPage(DriverSetUpUtil.setToRunRemotely(Constants.APP_OS), Constants.APP_URL);
         }
+        LOGGER.info("Home page loaded successfully");
     }
 
     public static void isHomePageLoaded() {
@@ -42,6 +45,7 @@ public class Home {
     public static void navigateToLoginPage() {
         homePage.waitFor(3);
         homePage.navigateToLoginPage();
+        LOGGER.info("Navigated to Login Page");
     }
 
     public static void mouseHoverProductsLink() {
@@ -50,6 +54,7 @@ public class Home {
 
     public static void selectCategoryFromList() {
         homePage.selectCategory();
+        LOGGER.info("Category selected");
     }
 
 }
