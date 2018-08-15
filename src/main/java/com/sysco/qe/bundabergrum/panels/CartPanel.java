@@ -39,7 +39,7 @@ public class CartPanel extends PageBase {
 
     public void clickCart() {
         syscoLabUI.click(spnCartHeader);
-        PageBase.waitFor(2);
+        PageBase.waitFor(1);
     }
 
     public void removeCartItems() {
@@ -60,6 +60,9 @@ public class CartPanel extends PageBase {
     }
 
     public boolean verifyCartItemName() {
+        if (!syscoLabUI.isEnabled(divCartDropDown)) {
+            syscoLabUI.waitTillElementLoaded(divCartDropDown);
+        }
         LOGGER.info("Cart item name is - " + syscoLabUI.getText(lnkCartItemName));
         return syscoLabUI.getText(lnkCartItemName).contains(productPage.getProductName());
     }
