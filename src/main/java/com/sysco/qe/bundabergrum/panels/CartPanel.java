@@ -30,6 +30,9 @@ public class CartPanel extends PageBase {
     }
 
     public boolean isCartDropDownDisplayed() {
+        if (!syscoLabUI.isEnabled(divCartDropDown)) {
+            syscoLabUI.waitTillElementLoaded(divCartDropDown);
+        }
         return syscoLabUI.isDisplayed(spnCartHeader);
     }
 
@@ -39,6 +42,9 @@ public class CartPanel extends PageBase {
 
     public void clickCart() {
         syscoLabUI.click(spnCartHeader);
+        if (!isCartDropDownDisplayed()) {
+            syscoLabUI.click(spnCartHeader);
+        }
         PageBase.waitFor(1);
     }
 
@@ -60,9 +66,6 @@ public class CartPanel extends PageBase {
     }
 
     public boolean verifyCartItemName() {
-        if (!syscoLabUI.isEnabled(divCartDropDown)) {
-            syscoLabUI.waitTillElementLoaded(divCartDropDown);
-        }
         LOGGER.info("Cart item name is - " + syscoLabUI.getText(lnkCartItemName));
         return syscoLabUI.getText(lnkCartItemName).contains(productPage.getProductName());
     }

@@ -28,7 +28,7 @@ public class Product {
         LOGGER.info("Product Price is - " + productPage.getProductPrice());
         productPage.clickAddToCart();
         LOGGER.info("product added to cart");
-        PageBase.waitFor(2);
+        PageBase.waitFor(3);
     }
 
     public static void clickAddToCartButton() {
