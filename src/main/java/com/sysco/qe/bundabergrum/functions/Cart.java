@@ -32,6 +32,10 @@ public class Cart {
         return myCartPanel.isCartDropDownDisplayed();
     }
 
+    public static boolean isCartIconDisplayed() {
+        return myCartPanel.isCartIconDisplayed();
+    }
+
     public static boolean verifyCartItemName() {
         return myCartPanel.verifyCartItemName();
     }

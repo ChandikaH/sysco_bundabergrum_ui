@@ -16,5 +16,6 @@ public class PageConstants {
     public static final String STRING_POSTAL_CODE = "2000";
     public static final String INVALID_CARD_NO = "1237678736218";
     public static final String INVALID_CVV_NO = "123";
+    public static final Long DEFAULT_TIMEOUT = 15L;
 
 }

@@ -30,10 +30,7 @@ public class CartPanel extends PageBase {
     }
 
     public boolean isCartDropDownDisplayed() {
-        if (!syscoLabUI.isEnabled(divCartDropDown)) {
-            syscoLabUI.waitTillElementLoaded(divCartDropDown);
-        }
-        return syscoLabUI.isDisplayed(spnCartHeader);
+        return waitTillElementVisible(divCartDropDown, 5L);
     }
 
     public int getCartItemCount() {
@@ -41,11 +38,12 @@ public class CartPanel extends PageBase {
     }
 
     public void clickCart() {
-        syscoLabUI.click(spnCartHeader);
-        if (!isCartDropDownDisplayed()) {
+        if (!syscoLabUI.isDisplayed(btnCheckoutFromCart)) {
             syscoLabUI.click(spnCartHeader);
+            PageBase.waitFor(1);
+        } else {
+            LOGGER.info("Cart dropdown already displayed");
         }
-        PageBase.waitFor(1);
     }
 
     public void removeCartItems() {

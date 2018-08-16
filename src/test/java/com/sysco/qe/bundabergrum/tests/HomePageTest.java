@@ -103,6 +103,7 @@ public class HomePageTest extends TestBase {
         softAssert.assertTrue(Product.isProductExclusiveDisplayed(), "Product exclusive range header is not displayed");
         Product.clickProductItemAndNavigateToCart();
         softAssert.assertEquals(Cart.verifyCartItemCount(), 1);
+        softAssert.assertTrue(Cart.isCartIconDisplayed(), "Cart icon not displayed");
         softAssert.assertAll();
     }
 
