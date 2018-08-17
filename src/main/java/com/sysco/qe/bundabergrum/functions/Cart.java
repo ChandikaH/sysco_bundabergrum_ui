@@ -51,7 +51,6 @@ public class Cart {
     }
 
     public static void proceedToCart() {
-        PageBase.waitFor(5);
         myCartPanel.clickButtonCartCheckout();
         LOGGER.info("Clicked Button Cart Checkout");
     }

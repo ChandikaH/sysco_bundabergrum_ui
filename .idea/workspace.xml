@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d2f59576-e889-47c1-afb8-9272052c01b8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chrome_driver/amd64/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chrome_driver/amd64/chromedriver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,12 +22,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HomePageTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+            <state relative-caret-position="78">
+              <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -49,38 +47,34 @@
       <file leaf-file-name="Cart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="696">
+              <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#475#476#0" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
                 <element signature="e#794#795#0" expanded="true" />
                 <element signature="e#854#855#0" expanded="true" />
-                <element signature="e#913#914#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
-                <element signature="e#904#905#0" expanded="true" />
-                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1173#1174#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartPanel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CartPanel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+            <state relative-caret-position="726">
+              <caret line="83" column="44" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1125#1126#0" expanded="true" />
                 <element signature="e#1185#1186#0" expanded="true" />
                 <element signature="e#1233#1234#0" expanded="true" />
-                <element signature="e#1298#1299#0" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1403#1404#0" expanded="true" />
-                <element signature="e#2860#2861#0" expanded="true" />
-                <element signature="e#2914#2915#0" expanded="true" />
+                <element signature="e#1299#1300#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,8 +83,8 @@
       <file leaf-file-name="PageBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="58" column="44" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="44" />
+            <state relative-caret-position="645">
+              <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,7 +117,7 @@
       <file leaf-file-name="AccountManagement.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/functions/AccountManagement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="105">
               <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding>
                 <element signature="e#285#286#0" expanded="true" />
@@ -207,11 +201,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Home.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Checkout.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/common/PageConstants.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java" />
       </list>
     </option>
   </component>
@@ -229,10 +223,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="213" />
-    <option name="y" value="24" />
-    <option name="width" value="1543" />
-    <option name="height" value="868" />
+    <option name="x" value="54" />
+    <option name="y" value="-11" />
+    <option name="width" value="1547" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -313,6 +307,30 @@
               <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
               <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="chrome_driver" type="462c0819:PsiDirectoryNode" />
+              <item name="amd64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sysco_bundabergrum_ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sysco_bundabergrum_ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -382,13 +400,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../api/lapitaf-wallet-tests/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -537,7 +555,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HomePageTest.testVerifySuccessfulLogin" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomePageTest.testVerifyItemFromCart" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="sysco_bundabergrum_ui" />
       <extension name="coverage">
         <pattern>
@@ -548,9 +566,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests.Home" />
+      <option name="PACKAGE_NAME" value="com.sysco.qe.bundabergrum.tests" />
       <option name="MAIN_CLASS_NAME" value="com.sysco.qe.bundabergrum.tests.HomePageTest" />
-      <option name="METHOD_NAME" value="testVerifySuccessfulLogin" />
+      <option name="METHOD_NAME" value="testVerifyItemFromCart" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -613,18 +631,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.HomePageTest" />
-      <item itemvalue="TestNG.HomePageTest.testVerifySuccessfulLogin" />
       <item itemvalue="TestNG.HomePageTest.testRemoveCartItems" />
       <item itemvalue="TestNG.HomePageTest.testAddItemToCart" />
       <item itemvalue="TestNG./home/chandikab/git/ui/sysco_bundabergrum_ui/src/test/regression.xml" />
+      <item itemvalue="TestNG.HomePageTest.testVerifyItemFromCart" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.HomePageTest" />
+        <item itemvalue="TestNG.HomePageTest.testVerifyItemFromCart" />
         <item itemvalue="TestNG./home/chandikab/git/ui/sysco_bundabergrum_ui/src/test/regression.xml" />
         <item itemvalue="TestNG.HomePageTest.testAddItemToCart" />
         <item itemvalue="TestNG.HomePageTest.testRemoveCartItems" />
-        <item itemvalue="TestNG.HomePageTest.testVerifySuccessfulLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -642,21 +660,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTest - 2018.08.10 at 15h 04m 01s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.10 at 16h 09m 01s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.10 at 19h 06m 35s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.10 at 19h 10m 34s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.08.10 at 19h 17m 43s.xml">
-      <configuration name="HomePageTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="HomePageTest - 2018.08.10 at 19h 20m 37s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
@@ -672,35 +675,49 @@
     <history-entry file="HomePageTest - 2018.08.13 at 19h 19m 28s.xml">
       <configuration name="HomePageTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HomePageTest_testVerifyItemFromCart - 2018.08.16 at 13h 04m 15s.xml">
+      <configuration name="HomePageTest.testVerifyItemFromCart" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.08.16 at 13h 08m 17s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.08.16 at 15h 50m 25s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.08.17 at 09h 36m 31s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="HomePageTest - 2018.08.17 at 09h 40m 22s.xml">
+      <configuration name="HomePageTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="-4" width="1545" height="904" extended-state="6" />
-    <editor active="true" />
+    <frame x="54" y="-11" width="1547" height="912" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32352942" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.121414274" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44652405" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46524063" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24883255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416943" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39762932" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39839572" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32352942" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -712,11 +729,81 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="30" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java</url>
+          <line>112</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>syscoLabUI.getText(By.xpath(&quot;//p[@class='subtotal']/span[@class='price']&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUI.getText(&quot;//p[@class='subtotal']/span[@class='price']&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myCartPanel.verifyCartItemPrice()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>syscoLabUI.getText(lnkCartItemNPrice)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>syscoLabUI.getText(divInvalidCreditCard)</expression-string>
         <language-id>JAVA</language-id>
@@ -739,26 +826,6 @@
       </expression>
       <expression>
         <expression-string>syscoLabUI.isDisplayed(btnSignIn)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Login.isLoginButtonDisplayed()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>isLoginButtonDisplayed()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>loginPage.isLoginButtonDisplayed()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>homePage.navigateToLoginPage();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -939,10 +1006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding>
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,10 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -968,10 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#1426#1427#0" expanded="true" />
-            <element signature="e#1493#1494#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,13 +1135,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/pages/PageBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/pages/AccountManagementPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1100,21 +1148,11 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/functions/AccountManagement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding>
             <element signature="e#285#286#0" expanded="true" />
             <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="58" column="44" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1129,14 +1167,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
+    <entry file="file://$USER_HOME$/Downloads/web_ui_automation-dev/src/main/java/com/sysco/web_ui_automation/pages/PageBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+        <state relative-caret-position="195">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/utils/PageBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1145,36 +1190,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/functions/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state relative-caret-position="696">
+          <caret line="53" column="35" lean-forward="true" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#475#476#0" expanded="true" />
             <element signature="e#528#529#0" expanded="true" />
             <element signature="e#794#795#0" expanded="true" />
             <element signature="e#854#855#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sysco/qe/bundabergrum/panels/CartPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="50" column="45" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="45" />
+        <state relative-caret-position="726">
+          <caret line="83" column="44" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1125#1126#0" expanded="true" />
             <element signature="e#1185#1186#0" expanded="true" />
             <element signature="e#1233#1234#0" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
-            <element signature="e#1330#1331#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#2860#2861#0" expanded="true" />
-            <element signature="e#2914#2915#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sysco/qe/bundabergrum/tests/HomePageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="117" lean-forward="true" selection-start-line="117" selection-end-line="117" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

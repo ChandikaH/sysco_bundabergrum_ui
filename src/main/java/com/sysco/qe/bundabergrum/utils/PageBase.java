@@ -62,7 +62,7 @@ public class PageBase {
                     .until(ExpectedConditions.elementToBeClickable(by));
             return syscoLabUI.isDisplayed(element);
         } catch (Exception e) {
-            LOGGER.info("Element : " + by +  " not not visible", e);
+            LOGGER.info("Element : " + by +  " not visible", e);
             webDriver.manage().timeouts().implicitlyWait(DEFAULT_TIMEOUT, TimeUnit.SECONDS);
             return false;
         }

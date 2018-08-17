@@ -110,7 +110,6 @@ public class HomePageTest extends TestBase {
     @Test(description = "TC_010", alwaysRun = true, dependsOnMethods = "testAddItemToCart")
     public void testVerifyItemFromCart() {
         Cart.clickCartIcon();
-        softAssert.assertTrue(Cart.isCartDropDownDisplayed(), "Cart drop down is not displayed");
         softAssert.assertTrue(Cart.verifyCartItemName(), "Item Name mismatch");
         softAssert.assertTrue(Cart.verifyCartItemPrice(), "Item Price mismatch");
         Cart.proceedToCart();
